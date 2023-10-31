@@ -1,0 +1,11 @@
+#main-layout {
+    min-height: calc(100vh - 139px);
+}
+
+#auth-layout {
+    height: 100vh;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
