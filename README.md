@@ -1,7 +1,7 @@
 # Shoppay-E-commerce
 Author Hafiz Faisal Ali
 <br>
-Shoppay is Full Stack Web Finally my MERN stack course is complete in which I learned to build everything from front end to back end.
+There is a complete E-commerce website on show but it's not complete yet, it's just a practice project to understand things better.
 <br>
 This project is very amazing because till now everything I have learned in (MERN) Stack Course I have implemented in this project buy up products login register You can buy any product and pay for it. Means that every functionality that should be in an e-commerce website, I have tried my best to implement them in it. This is my first. And it was a basic project and I will make an even better project in the coming days, God willing
 <br>
